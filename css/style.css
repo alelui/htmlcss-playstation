@@ -56,9 +56,14 @@ img#returnal-hero{
     background-size: cover;
     background-position: center;
 }
+
 #jumbotron .container .new-releases{
-    height: 100px;
-    background-color: green;
+    width: 100%; 
+ }
+
+#jumbotron .container .new-releases img{
+   width: 100%; 
+   border-radius: 15px;
 }
 
 #megatron .container-fluid{
@@ -123,3 +128,23 @@ footer{
     background-color: #00439c
 }
 
+
+
+
+/* @media screen and (min-width: 576px){
+    #jumbotron .container .new-releases img{
+       width: 160px; 
+    }
+}
+
+@media screen and (min-width: 768px){
+    #jumbotron .container .new-releases img{
+       width: 200px; 
+    }
+}
+
+@media screen and (min-width: 992px){
+    #jumbotron .container .new-releases img{
+       width: 140px; 
+    }
+} */
