@@ -1,15 +1,49 @@
 /* *** COMMONS *** */
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+.ms_rounded{
+    border-radius: 20px;
+}
+
+/* *** HEADER *** */
+#header-top{
+    height: 40px;
+}
+
+#header-top #sony-logo img{
+    width: 80px;
+}
+
+#header-bottom{
+    height: 100px;
 }
 
 
-/* *** HEADER *** */
+/* *** JUMBO *** */
+
+#jumbotron .container-fluid{
+    height: 600px;
+    background-color: black;
+}
+
+#jumbotron .container .new-releases{
+    height: 100px;
+    background-color: green;
+}
+
 
 /* *** MAIN *** */
+
+
+main .new-play-station-5{
+    height: 200px;
+    background-color: red;
+}
+
+main .console-play-station-5{
+    height: 200px;
+    background-color: blue;
+}
 
 /* *** FOOTER *** */
 
