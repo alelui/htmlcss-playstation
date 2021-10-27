@@ -1,6 +1,5 @@
 /* *** COMMONS *** */
 
-
 .ms_rounded{
     border-radius: 20px;
 }
@@ -17,6 +16,13 @@
     border-radius: 20px;
 }
 
+.ms_height{
+    height: 100%;
+}
+
+
+
+
 /* *** HEADER *** */
 #header-top{
     height: 40px;
@@ -26,7 +32,9 @@
     width: 80px;
 }
 
-
+.ms_font-size{
+    font-size: 40px;
+}
 #header-bottom img{
     height: 50px;
 }
@@ -35,6 +43,10 @@
     justify-content: space-between;
 }
 
+ 
+img#returnal-hero{
+    width: 350px;
+}
 
 /* *** JUMBO *** */
 
@@ -42,7 +54,7 @@
     height: 600px;
     background-image: url('../img/jumbo-bg.png');
     background-size: cover;
-    object-fit: cover;
+    background-position: center;
 }
 #jumbotron .container .new-releases{
     height: 100px;
