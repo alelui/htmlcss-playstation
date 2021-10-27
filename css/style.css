@@ -25,11 +25,25 @@
     height: 600px;
     background-color: black;
 }
-
 #jumbotron .container .new-releases{
     height: 100px;
     background-color: green;
 }
+
+#megatron .container-fluid{
+    height: 600px;
+    background-color: black;
+}
+#megatron .container .new-releases{
+    height: 100px;
+    background-color: green;
+}
+#megatron .container .text{
+    height: 10px;
+    background-color: coral;
+}
+
+
 
 
 /* *** MAIN *** */
@@ -45,7 +59,39 @@ main .console-play-station-5{
     background-color: blue;
 }
 
+main .items{
+    height: 80px;
+    background-color: yellow;
+}
+
+main .explore-play-station-4{
+    height: 200px;
+    background-color: blue;
+}
+
+main .items-ps4{
+    height: 80px;
+    background-color: yellow;
+}
+
+main #minitron .container-fluid{
+    height: 300px;
+    background-color: black;
+}
+main #play-statipn-plus .container-fluid{
+    height: 300px;
+    background-color: black;
+}
+
+main #social .social-icon{
+    height: 80px;
+    background-color: cyan;
+}
+
 /* *** FOOTER *** */
 
-
+footer{
+    height: 900px;
+    background-color: #00439c
+}
 
