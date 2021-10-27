@@ -40,7 +40,9 @@
 
 #jumbotron .container-fluid{
     height: 600px;
-    background-color: black;
+    background-image: url('../img/jumbo-bg.png');
+    background-size: cover;
+    object-fit: cover;
 }
 #jumbotron .container .new-releases{
     height: 100px;
