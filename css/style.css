@@ -1,5 +1,7 @@
 /* *** COMMONS *** */
 
+
+
 .ms_rounded{
     border-radius: 20px;
 }
@@ -59,12 +61,20 @@ img#returnal-hero{
 
 #jumbotron .container .new-releases{
     width: 100%; 
+    border-radius: 15px;
+    border: 2px solid white;
  }
 
 #jumbotron .container .new-releases img{
-   width: 100%; 
+   width: 100%;
+   padding: 3px;
    border-radius: 15px;
 }
+
+#jumbotron .container .new-releases:hover{
+    border: 2px solid #0072ce;
+}
+
 
 #megatron .container-fluid{
     height: 600px;
