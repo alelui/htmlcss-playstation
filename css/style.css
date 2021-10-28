@@ -114,9 +114,12 @@ main .items img{
 #megatron .container .new-releases img{
     width: 100%;
     margin-bottom: 10px;
+    border-radius: 15px;
 }
-#megatron .container .text{
-    color: white;
+#megatron .container .text #tm{
+    font-size: 9px;
+    position: relative;
+    bottom: 5px;
 }
 
 
