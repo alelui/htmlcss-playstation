@@ -96,6 +96,10 @@ main .items img{
     width: 100%;
 }
 
+#megatron{
+    background-color: black;
+}
+
 #megatron .container-fluid{
     height: 600px;
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
@@ -107,13 +111,12 @@ main .items img{
     width: 300px;
 }
 
-#megatron .container .new-releases{
-    height: 100px;
-    background-color: green;
+#megatron .container .new-releases img{
+    width: 100%;
+    margin-bottom: 10px;
 }
 #megatron .container .text{
-    height: 10px;
-    background-color: coral;
+    color: white;
 }
 
 
