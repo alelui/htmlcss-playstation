@@ -125,9 +125,18 @@ main .items img{
 
 main #minitron .container-fluid{
     height: 300px;
-    background-color: black;
+    background-color: #bebcbb;
 }
-main #play-statipn-plus .container-fluid{
+
+main #minitron #ps-plus img{
+    width: 100%;
+}
+main #minitron #ps-plus a{
+    background-color: #d9dadc;
+    color: #3167e5;
+}
+
+main #play-statipn-now .container-fluid{
     height: 300px;
     background-color: black;
 }
