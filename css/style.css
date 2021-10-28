@@ -104,9 +104,10 @@ main .console-play-station-5 img{
     width: 100%;
 }
 
-main .items{
-    height: 80px;
-    background-color: yellow;
+
+
+main .items img{
+    width: 100%;
 }
 
 main .explore-play-station-4{
