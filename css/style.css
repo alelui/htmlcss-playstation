@@ -1,7 +1,5 @@
 /* *** COMMONS *** */
 
-
-
 .ms_rounded{
     border-radius: 20px;
 }
@@ -22,7 +20,20 @@
     height: 100%;
 }
 
+.ms_space-between{
+    justify-content: space-between;
+}
 
+.ms_font-size{
+    font-size: 40px;
+}
+
+.ms-btn{
+    border: 2px solid red ;
+}
+.ms-btn:hover{
+    border: 2px solid white ;
+}
 
 
 /* *** HEADER *** */
@@ -41,9 +52,6 @@
     height: 50px;
 }
 
-.ms_space-between{
-    justify-content: space-between;
-}
 
  
 img#returnal-hero{
@@ -75,7 +83,6 @@ img#returnal-hero{
     border: 2px solid #0072ce;
 }
 
-
 #megatron .container-fluid{
     height: 600px;
     background-color: black;
@@ -92,14 +99,9 @@ img#returnal-hero{
 /* *** MAIN *** */
 
 
-main .new-play-station-5{
-    height: 200px;
-    background-color: red;
-}
 
-main .console-play-station-5{
-    height: 200px;
-    background-color: blue;
+main .console-play-station-5 img{
+    width: 100%;
 }
 
 main .items{
