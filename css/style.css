@@ -83,18 +83,6 @@ img#returnal-hero{
     border: 2px solid #0072ce;
 }
 
-#megatron .container-fluid{
-    height: 600px;
-    background-color: black;
-}
-#megatron .container .new-releases{
-    height: 100px;
-    background-color: green;
-}
-#megatron .container .text{
-    height: 10px;
-    background-color: coral;
-}
 
 /* *** MAIN *** */
 
@@ -104,11 +92,30 @@ main .console-play-station-5 img{
     width: 100%;
 }
 
-
-
 main .items img{
     width: 100%;
 }
+
+#megatron .container-fluid{
+    height: 600px;
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#megatron .container-fluid #it-tekes-hero{
+    width: 100%;
+}
+
+#megatron .container .new-releases{
+    height: 100px;
+    background-color: green;
+}
+#megatron .container .text{
+    height: 10px;
+    background-color: coral;
+}
+
 
 main .explore-play-station-4{
     height: 200px;
