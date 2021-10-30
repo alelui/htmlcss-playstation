@@ -142,7 +142,6 @@ main #minitron #ps-plus a{
 }
 
 main #play-station-now{
-
     background-color: #161c3b;
 }
 main #play-station-now a{
@@ -150,10 +149,7 @@ main #play-station-now a{
 }
 
 
-main #social .social-icon{
-    height: 80px;
-    background-color: cyan;
-}
+
 
 /* *** FOOTER *** */
 
@@ -182,3 +178,7 @@ footer{
        width: 140px; 
     }
 } */
+
+
+
+
