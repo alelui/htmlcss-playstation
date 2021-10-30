@@ -141,10 +141,14 @@ main #minitron #ps-plus a{
     color: #3167e5;
 }
 
-main #play-statipn-now .container-fluid{
-    height: 300px;
-    background-color: black;
+main #play-station-now{
+
+    background-color: #161c3b;
 }
+main #play-station-now a{
+    background-color: #d9dadc;
+}
+
 
 main #social .social-icon{
     height: 80px;
