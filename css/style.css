@@ -154,8 +154,30 @@ main #play-station-now a{
 /* *** FOOTER *** */
 
 footer{
-    height: 900px;
     background-color: #00439c
+}
+
+footer .logo-ps{
+    width: 120px;
+    padding-bottom: 30px;
+}
+footer #logo-sie{
+    width: 150px;
+}
+
+footer li{
+    list-style: none;
+    line-height: 30px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer a#more-info{
+    text-decoration: underline;
+}
+footer a:hover{
+    color: rgb(151, 141, 141);
 }
 
 
