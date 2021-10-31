@@ -1,9 +1,5 @@
 /* *** COMMONS *** */
 
-.ms_rounded{
-    border-radius: 20px;
-}
-
 .bi-chevron-down{
     font-size: 10px;
 }
@@ -14,14 +10,6 @@
 
 .ms_border_radius{
     border-radius: 20px;
-}
-
-.ms_height{
-    height: 100%;
-}
-
-.ms_space-between{
-    justify-content: space-between;
 }
 
 .ms_font-size{
@@ -53,15 +41,10 @@
     width: 80px;
 }
 
-.ms_font-size{
-    font-size: 40px;
-}
 #header-bottom img{
     height: 50px;
 }
 
-
- 
 img#returnal-hero{
     width: 350px;
 }
@@ -182,24 +165,6 @@ footer a:hover{
 
 
 
-
-/* @media screen and (min-width: 576px){
-    #jumbotron .container .new-releases img{
-       width: 160px; 
-    }
-}
-
-@media screen and (min-width: 768px){
-    #jumbotron .container .new-releases img{
-       width: 200px; 
-    }
-}
-
-@media screen and (min-width: 992px){
-    #jumbotron .container .new-releases img{
-       width: 140px; 
-    }
-} */
 
 
 
